@@ -8,6 +8,7 @@
 - [Oyuncu Yazılımcılar](https://t.me/oyunyazilim): Oyun Sevenler
 - [Hard Rock & Metalci Yazılımcılar](https://t.me/joinchat/N8l4vy7jdDRhZjQ8): Hard Rock & Metal Müzik Sevenler
 - [F1 Devs](https://t.me/joinchat/g6H_CIcjNe8xNzk0): Formula 1 Sevenler
+- [Anime İzleyen Yazılımcılar](https://t.me/anime_devel): Anime Sevenler
 
 
 ## Yazılım Toplulukları
