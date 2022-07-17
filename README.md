@@ -2,11 +2,12 @@
 
 ## Hayat Biçimi "Life Style" Toplulukları
 
-- [Bilim Kurgu ve/veya Fantastik Edebiyat Yazılımcıları](https://t.me/bilimkurguyazilim): Bilim-Kurgu/Fantastik Edebiyat Seven Yazılımcılar
-- [Kahve Demleyen Yazılımcılar](https://t.me/kahveciyazilimcilar): Kahve Demleyen Yazılımcılar
-- [Oyuncu Yazılımcılar](https://t.me/oyunyazilim): Oyuncu Yazılımcılar
-- [Hard Rock & Metalci Yazılımcılar](https://t.me/joinchat/N8l4vy7jdDRhZjQ8): Hard Rock & Metal Müzik Seven Yazılımcılar
-- [F1 Devs](https://t.me/joinchat/g6H_CIcjNe8xNzk0): Formula1 Seven Yazılımcılar
+- [Bilim Kurgu ve/veya Fantastik Edebiyat Yazılımcıları](https://t.me/bilimkurguyazilim): Bilim-Kurgu/Fantastik Edebiyat Sevenler
+- [Kahve Demleyen Yazılımcılar](https://t.me/kahveciyazilimcilar): Kahve Sevenler
+- [İçki Tadan Yazılımcılar](https://t.me/ickiyazilim): Alkol Sevenler
+- [Oyuncu Yazılımcılar](https://t.me/oyunyazilim): Oyun Sevenler
+- [Hard Rock & Metalci Yazılımcılar](https://t.me/joinchat/N8l4vy7jdDRhZjQ8): Hard Rock & Metal Müzik Sevenler
+- [F1 Devs](https://t.me/joinchat/g6H_CIcjNe8xNzk0): Formula 1 Sevenler
 
 
 ## Yazılım Toplulukları
