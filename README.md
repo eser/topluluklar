@@ -18,7 +18,12 @@
 - [Dev İzmir](https://t.me/devizmir): İzmir Geliştirici Topluluğu
 - [Android Türkiye](https://t.me/androidturkey): Android Geliştiriciler Topluluğu
 - [Firebase Türkiye](https://t.me/firebasetr): Firebase Topluluğu
-- [QaCast](https://t.me/joinchat/KG3RmhohFlyjFtfL6G-L-g): Yazılım Test Mühendisleri Topluluğu 
+- [QaCast](https://t.me/joinchat/KG3RmhohFlyjFtfL6G-L-g): Yazılım Test Mühendisleri Topluluğu
+- [Python Türkiye](https://t.me/python_tr): Python Geliştiriciler Topluluğu
+- [ChaiLink Türkiye](https://t.me/ChainLinkTR): Chainlink - Blockchain and Smart Contract Grubu
+- [Yazılım İş İlanları](https://t.me/yazilimisilanlarigrubu): Türkiye'deki Yazılım İş İlanları Paylaşım Grubu
+- [Go Türkiye](https://t.me/golangturkiye): GoLang Geliştirici Topluluğu
+- [Hack All Day](https://t.me/hackallday): Türkiye Siber Güvenlik Topluluğu
 
 
 ## Hobi Toplulukları
