@@ -18,6 +18,7 @@
 - [Dev İzmir](https://t.me/devizmir): İzmir Geliştirici Topluluğu
 - [Android Türkiye](https://t.me/androidturkey): Android Geliştiriciler Topluluğu
 - [Firebase Türkiye](https://t.me/firebasetr): Firebase Topluluğu
+- [QaCast](https://t.me/joinchat/KG3RmhohFlyjFtfL6G-L-g): Yazılım Test Mühendisleri Topluluğu 
 
 
 ## Hobi Toplulukları
