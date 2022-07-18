@@ -16,6 +16,7 @@
 - [Açık Kaynak Geliştirme](https://t.me/acikkaynak): Açık Kaynak Topluluğu
 - [jstanbul tartışma](https://t.me/jstanbulGroup): İstanbul JavaScript Topluluğu
 - [Dev İzmir](https://t.me/devizmir): İzmir Geliştirici Topluluğu
+- [Android Türkiye](https://t.me/androidturkey): Android Geliştiriciler Topluluğu
 
 
 ## Hobi Toplulukları
