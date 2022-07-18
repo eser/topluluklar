@@ -17,6 +17,7 @@
 - [jstanbul tartışma](https://t.me/jstanbulGroup): İstanbul JavaScript Topluluğu
 - [Dev İzmir](https://t.me/devizmir): İzmir Geliştirici Topluluğu
 - [Android Türkiye](https://t.me/androidturkey): Android Geliştiriciler Topluluğu
+- [Firebase Türkiye](https://t.me/firebasetr): Firebase Topluluğu
 
 
 ## Hobi Toplulukları
