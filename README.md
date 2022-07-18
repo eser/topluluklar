@@ -27,7 +27,8 @@
 - [Go Türkiye](https://t.me/golangturkiye): GoLang Geliştirici Topluluğu
 - [Hack All Day](https://t.me/hackallday): Türkiye Siber Güvenlik Topluluğu
 - [RemixJS Topluluğu](https://t.me/+iWXQtKBmgDA1N2Q0): RemixJS geliştiricileri Topluluğu
-- [React Native TR](https://t.me/+vCc5FfyDe3U2YmI0): React Native Geliştiricileri Topluluğu 
+- [React Native TR](https://t.me/+vCc5FfyDe3U2YmI0): React Native Geliştiricileri Topluluğu
+- [Django Türkiye](https://t.me/django_turkey): Django Geliştiriciler Topluluğu
 
 
 ## Hobi Toplulukları
