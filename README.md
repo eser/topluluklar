@@ -20,7 +20,6 @@
 - [Balıkesir Yazılımcıları](https://t.me/+L-56tXetd34yYTdk): Balıkesir Geliştirici Topluluğu 
 - [Android Türkiye](https://t.me/androidturkey): Android Geliştiriciler Topluluğu
 - [Firebase Türkiye](https://t.me/firebasetr): Firebase Topluluğu
-- [QaCast](https://t.me/joinchat/KG3RmhohFlyjFtfL6G-L-g): Yazılım Test Mühendisleri Topluluğu 
 - [QaCast](https://t.me/joinchat/KG3RmhohFlyjFtfL6G-L-g): Yazılım Test Mühendisleri Topluluğu
 - [Python Türkiye](https://t.me/python_tr): Python Geliştiriciler Topluluğu
 - [ChaiLink Türkiye](https://t.me/ChainLinkTR): Chainlink - Blockchain and Smart Contract Grubu
