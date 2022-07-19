@@ -29,8 +29,13 @@
 - [Hack All Day](https://t.me/hackallday): Türkiye Siber Güvenlik Topluluğu
 - [Avrupadaki Yazilimcilar](https://t.me/+5sp0h9uJ-wNhNmI0): Avrupada Calisan & Yasayan Yazilimcilar Toplulugu
 - [RemixJS Topluluğu](https://t.me/+iWXQtKBmgDA1N2Q0): RemixJS geliştiricileri Topluluğu
-- [React Native TR](https://t.me/+vCc5FfyDe3U2YmI0): React Native Geliştiricileri Topluluğu 
+- [React Native TR](https://t.me/+vCc5FfyDe3U2YmI0): React Native Geliştiricileri Topluluğu
+- [JavaScript TR](https://t.me/JavaScriptTR): JavaScript Topluluğu
+- [Laravel İstanbul](https://t.me/laravelistanbul): Laravel İstanbul Topluluğu
+- [Web Uygulama Güvenliği TR](https://t.me/WebUygulamaGuvenligiTurkiye): Web Uygulama Güvenliği Türkiye Topluluğu
+- [React TR](https://t.me/ReactTR): React TR Topluluğu
 - [Swift Akademi](https://t.me/swiftakademi): Swift Geliştiricileri Topluluğu
+
 
 
 ## Hobi Toplulukları
