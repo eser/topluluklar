@@ -1,4 +1,11 @@
-# Yazılımcı Telegram Toplulukları
+# Yazılımcı Telegram Topluluk ve Kanalları
+
+## Kanallar
+
+- [Yazılım Telegram Topluluk ve Kanalları](https://t.me/ytt_notify): Bu repository'e gelen update'leri feedleyen kanal
+- [açık yayınlar](https://t.me/acikyayin): Türk yazılım komunitesine yönelik hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.
+- [açık projeler](https://t.me/acikproje): Türk yazılım komunitesinde duyurusunu yapmak istenen projelerin yayınlandığı duyuru kanalı.
+
 
 ## Hayat Biçimi "Life Style" Toplulukları
 
