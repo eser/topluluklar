@@ -32,6 +32,8 @@
 - [Laravel İstanbul](https://t.me/laravelistanbul): Laravel İstanbul Topluluğu
 - [Web Uygulama Güvenliği TR](https://t.me/WebUygulamaGuvenligiTurkiye): Web Uygulama Güvenliği Türkiye Topluluğu
 - [React TR](https://t.me/ReactTR): React TR Topluluğu
+- [Swift Akademi](https://t.me/swiftakademi): Swift Geliştiricileri Topluluğu
+
 
 
 ## Hobi Toplulukları
