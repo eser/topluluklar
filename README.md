@@ -46,7 +46,7 @@
 - [React TR](https://t.me/ReactTR): React TR Topluluğu
 - [Swift Akademi](https://t.me/swiftakademi): Swift Geliştiricileri Topluluğu
 - [Adli Bilişim Türkiye](https://t.me/AdliBilisimTurkiye): Adli Bilişim Türkiye Topluluğu
-- [Bilgisayar Bilimleri Arşiv](https://t.me/computersciencearchive): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı topluluk.
+- [Bilgisayar Bilimleri Arşiv](https://t.me/csarchive): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı topluluk.
 
 
 ## Hobi Toplulukları
