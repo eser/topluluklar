@@ -19,7 +19,15 @@
 - [F1 Devs](https://t.me/joinchat/g6H_CIcjNe8xNzk0): Formula 1 Sevenler
 - [Anime İzleyen Yazılımcılar](https://t.me/anime_devel): Anime Sevenler
 - [Gym Seven Yazilimcilar](https://t.me/+30Y0wobsgolmYmU0): Fitness ve Vucut Gelistirmeyle Ilgilenenler
+
+
+
+## Hobi Toplulukları
+
+- [MechIstanbul](https://t.me/mechistanbul): Mekanik Klavye Topluluğu
 - [Car enthusiast devs](https://t.me/+xU-UOaFbB6JhN2Jk): Arabalar ile ilgilenenler.
+
+
 
 ## Yazılım Toplulukları
 
@@ -34,7 +42,6 @@
 - [ChaiLink Türkiye](https://t.me/ChainLinkTR): Chainlink - Blockchain and Smart Contract Grubu
 - [Yazılım İş İlanları](https://t.me/yazilimisilanlarigrubu): Türkiye'deki Yazılım İş İlanları Paylaşım Grubu
 - [Go Türkiye](https://t.me/golangturkiye): GoLang Geliştirici Topluluğu
-- [Hack All Day](https://t.me/hackallday): Türkiye Siber Güvenlik Topluluğu
 - [Avrupadaki Yazilimcilar](https://t.me/+5sp0h9uJ-wNhNmI0): Avrupada Calisan & Yasayan Yazilimcilar Toplulugu
 - [RemixJS Topluluğu](https://t.me/+iWXQtKBmgDA1N2Q0): RemixJS geliştiricileri Topluluğu
 - [React Native TR](https://t.me/+vCc5FfyDe3U2YmI0): React Native Geliştiricileri Topluluğu
@@ -49,9 +56,8 @@
 - [Bilgisayar Bilimleri Arşiv](https://t.me/csarchive): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı topluluk.
 
 
-## Hobi Toplulukları
-
-- [MechIstanbul](https://t.me/mechistanbul): Mekanik Klavye Topluluğu
 
 ## Siber Güvenlik Toplulukları
+
+- [Hack All Day](https://t.me/hackallday): Türkiye Siber Güvenlik Topluluğu
 - [DEUCYBER](https://t.me/deucyber): İzmir Siber Güvenlik Topluluğu
