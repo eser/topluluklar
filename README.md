@@ -5,6 +5,8 @@
 - [Yazılım Telegram Topluluk ve Kanalları](https://t.me/ytt_notify): Bu repository'e gelen update'leri feedleyen kanal
 - [açık yayınlar](https://t.me/acikyayin): Türk yazılım komunitesine yönelik hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.
 - [açık projeler](https://t.me/acikproje): Türk yazılım komunitesinde duyurusunu yapmak istenen projelerin yayınlandığı duyuru kanalı.
+- [Bilgisayar Bilimleri](https://t.me/computersciencelab): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı kanal.
+
 
 
 ## Hayat Biçimi "Life Style" Toplulukları
@@ -44,6 +46,7 @@
 - [React TR](https://t.me/ReactTR): React TR Topluluğu
 - [Swift Akademi](https://t.me/swiftakademi): Swift Geliştiricileri Topluluğu
 - [Adli Bilişim Türkiye](https://t.me/AdliBilisimTurkiye): Adli Bilişim Türkiye Topluluğu
+- [Bilgisayar Bilimleri Arşiv](https://t.me/computersciencearchive): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı topluluk.
 
 
 ## Hobi Toplulukları
