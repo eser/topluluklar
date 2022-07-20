@@ -52,3 +52,6 @@
 ## Hobi Toplulukları
 
 - [MechIstanbul](https://t.me/mechistanbul): Mekanik Klavye Topluluğu
+
+## Siber Güvenlik Toplulukları
+- [DEUCYBER](https://t.me/deucyber): İzmir Siber Güvenlik Topluluğu
