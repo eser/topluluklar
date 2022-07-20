@@ -17,7 +17,7 @@
 - [F1 Devs](https://t.me/joinchat/g6H_CIcjNe8xNzk0): Formula 1 Sevenler
 - [Anime İzleyen Yazılımcılar](https://t.me/anime_devel): Anime Sevenler
 - [Gym Seven Yazilimcilar](https://t.me/+30Y0wobsgolmYmU0): Fitness ve Vucut Gelistirmeyle Ilgilenenler
-
+- [Car enthusiast devs](https://t.me/+xU-UOaFbB6JhN2Jk): Arabalar ile ilgilenenler.
 
 ## Yazılım Toplulukları
 
