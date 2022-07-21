@@ -54,6 +54,7 @@
 - [Swift Akademi](https://t.me/swiftakademi): Swift Geliştiricileri Topluluğu
 - [Adli Bilişim Türkiye](https://t.me/AdliBilisimTurkiye): Adli Bilişim Türkiye Topluluğu
 - [Bilgisayar Bilimleri Arşiv](https://t.me/csarchive): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı topluluk.
+- [Corum Dev Society](https://t.me/+ors5ZAw6qGc4Y2Ix): Corum Geliştirici Topluluğu
 
 
 
