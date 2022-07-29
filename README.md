@@ -3,8 +3,8 @@
 ## Kanallar
 
 - [Yazılım Telegram Topluluk ve Kanalları](https://t.me/ytt_notify): Bu repository'e gelen update'leri feedleyen kanal
-- [Açık Yayınlar](https://t.me/acikyayin): Türk yazılım komunitesine yönelik hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.
-- [Açık Projeler](https://t.me/acikproje): Türk yazılım komunitesinde duyurusunu yapmak istenen projelerin yayınlandığı duyuru kanalı.
+- [açık yayınlar](https://t.me/acikyayin): Türk yazılım komunitesine yönelik hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.
+- [açık projeler](https://t.me/acikproje): Türk yazılım komunitesinde duyurusunu yapmak istenen projelerin yayınlandığı duyuru kanalı.
 - [Bilgisayar Bilimleri](https://t.me/computersciencelab): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı kanal.
 - [BTK Akademi](https://t.me/BTKAkademiKurumsal): BTK Akademi Eğitim Platformu'nda gerçekleşecek yeni etkinlik, eğitim gibi duyuruların paylaşıldığı kanal.
 
