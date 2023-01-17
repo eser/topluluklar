@@ -59,7 +59,7 @@
 - [Corum Developer Society](https://t.me/+9AnE8LStu-w0MGQ5): Corum Geliştirici Topluluğu
 - [Karadenizdeki Yazılımcılar](https://t.me/blackseadevs): Karadeniz bölgesinde yaşayan ve çalışan yazılımcılar topluluğu
 - [ekşiCode](https://www.eksicode.org/telegram-gruplari): Yazılım Geliştirici Topluluğu
-
+- [JS Izmir](https://t.me/js_izmir): Izmir Javascript Topluluğu
 
 
 ## Siber Güvenlik Toplulukları
