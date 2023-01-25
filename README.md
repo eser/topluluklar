@@ -22,6 +22,7 @@
 - [Gym Seven Yazilimcilar](https://t.me/+30Y0wobsgolmYmU0): Fitness ve Vucut Gelistirmeyle Ilgilenenler
 - [Fotoğraf Çeken Yazılımcılar](https://t.me/fotoyazilim): Fotoğraf Çekimiyle İlgilenenler
 - [Spor Yapan Yazılımcılar](https://t.me/+xUsdvfZUGdNjZDk0): Spor Yapmayı Sevenler
+- [Hayvansever yazılımcılar](https://t.me/+0Gp7pqbfUkAyN2Rk): Hayvansever Yazılımcılar
 
 
 
