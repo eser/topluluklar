@@ -70,5 +70,4 @@
 
 - [Hack All Day](https://t.me/hackallday): Türkiye Siber Güvenlik Topluluğu
 - [DEUCYBER](https://t.me/deucyber): İzmir Siber Güvenlik Topluluğu
-- [Web Uygulama Güvenliği TR](https://t.me/WebUygulamaGuvenligiTurkiye): Web Uygulama Güvenliği Türkiye Topluluğu
 - [TTMO](https://t.me/ttmo_O): Tersine Mühendisler Odası
