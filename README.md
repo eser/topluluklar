@@ -1,4 +1,4 @@
-# Yazılımcı Telegram Topluluk ve Kanalları
+# Yazılımcı Topluluk ve Mecraları
 
 ## Yazılımcı Ağı
 
@@ -16,7 +16,7 @@
 - [istanbul yazılımcı ağı](https://t.me/yazilimciagi_istanbul): İstanbul özelindeki yazılımcı ağı kanalımız.
 - [izmir yazılımcı ağı](https://t.me/yazilimciagi_izmir): İzmir özelindeki yazılımcı ağı kanalımız.
 
-**İlgi Kanalları**
+**İlgi Alanı Kanalları**
 
 - [MechIstanbul](https://t.me/mechistanbul): Mekanik Klavye Topluluğu
 - [Oyuncu Yazılımcılar](https://t.me/oyunyazilim): Oyun Sevenler
@@ -24,6 +24,7 @@
 - [Kahve Demleyen Yazılımcılar](https://t.me/kahveciyazilimcilar): Kahve Sevenler
 - [İçki Tadan Yazılımcılar](https://t.me/ickiyazilim): Alkol Sevenler
 - [Fotoğraf Çeken Yazılımcılar](https://t.me/fotoyazilim): Fotoğraf Çekimiyle İlgilenenler
+- [Sinefil ve Dizifil Yazılımcılar](https://t.me/sinefilyazilim): Sinema ve Dizilerle İlgilenenler
 
 
 ## Diğer Hobi Toplulukları
