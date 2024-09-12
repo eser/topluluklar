@@ -41,12 +41,12 @@
 
 - [Bilgisayar Bilimleri](https://t.me/computersciencelab): Bilgisayar Bilimleri'ne dair kaynak, eğitim ve dokümantasyonların paylaşıldığı kanal.
 - [BTK Akademi](https://t.me/BTKAkademiKurumsal): BTK Akademi Eğitim Platformu'nda gerçekleşecek yeni etkinlik, eğitim gibi duyuruların paylaşıldığı kanal.
-- [Balıkesir Yazılımcıları](https://t.me/+L-56tXetd34yYTdk): Balıkesir Geliştirici Topluluğu 
+- [Balıkesir Yazılımcıları](https://t.me/+L-56tXetd34yYTdk): Balıkesir Geliştirici Topluluğu
 - [Android Türkiye](https://t.me/androidturkey): Android Geliştiriciler Topluluğu
 - [Firebase Türkiye](https://t.me/firebasetr): Firebase Topluluğu
 - [QaCast](https://t.me/joinchat/KG3RmhohFlyjFtfL6G-L-g): Yazılım Test Mühendisleri Topluluğu
 - [Python Türkiye](https://t.me/python_tr): Python Geliştiriciler Topluluğu
-- [ChaiLink Türkiye](https://t.me/ChainLinkTR): Chainlink - Blockchain and Smart Contract Grubu
+- [Chainlink Türkiye](https://t.me/ChainLinkTR): Chainlink - Blockchain and Smart Contract Grubu
 - [Yazılım İş İlanları](https://t.me/yazilimisilanlarigrubu): Türkiye'deki Yazılım İş İlanları Paylaşım Grubu
 - [Go Türkiye](https://t.me/golangturkiye): GoLang Geliştirici Topluluğu
 - [Avrupadaki Yazilimcilar](https://t.me/+5sp0h9uJ-wNhNmI0): Avrupada Calisan & Yasayan Yazilimcilar Toplulugu
@@ -64,6 +64,7 @@
 - [Karadenizdeki Yazılımcılar](https://t.me/blackseadevs): Karadeniz bölgesinde yaşayan ve çalışan yazılımcılar topluluğu
 - [ekşiCode](https://www.eksicode.org/telegram-gruplari): Yazılım Geliştirici Topluluğu
 - [JS Izmir](https://t.me/js_izmir): Izmir Javascript Topluluğu
+- [Türkiye Rust Community](https://bento.me/turkiye-rust-community): Türkiye Rust Topluluğu
 
 
 ## Diğer Siber Güvenlik Toplulukları
