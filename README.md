@@ -55,6 +55,8 @@
 - [FastAPI Türkiye](https://t.me/fastapi_turkey): FastAPI Geliştiriciler Topluluğu
 - [Django Türkiye](https://t.me/django_turkey): Django Geliştiriciler Topluluğu
 - [JavaScript TR](https://t.me/JavaScriptTR): JavaScript Topluluğu
+- [Laravel Türkiye](https://discord.gg/invite/laravel-turkiye-901589011192238100): Laravel Türkiye Discord Topluluğu
+- [Laravel Türkiye Forum](https://laravel.gen.tr): Laravel Türkiye Forum Topluluğu
 - [Laravel İstanbul](https://t.me/laravelistanbul): Laravel İstanbul Topluluğu
 - [React TR](https://t.me/ReactTR): React TR Topluluğu
 - [Swift Akademi](https://t.me/swiftakademi): Swift Geliştiricileri Topluluğu
