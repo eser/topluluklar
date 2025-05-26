@@ -34,6 +34,7 @@
 - 🍥 [Anime İzleyen Yazılımcılar](https://t.me/anime_devel): Anime Sevenler  
 - 🏋️ [Gym Seven Yazilimcilar](https://t.me/+30Y0wobsgolmYmU0): Fitness ve Vucut Gelistirmeyle Ilgilenenler  
 - 🤸 [Spor Yapan Yazılımcılar](https://t.me/+xUsdvfZUGdNjZDk0): Spor Yapmayı Sevenler  
+- 🐾 [Hayvansever yazılımcılar](https://t.me/+0Gp7pqbfUkAyN2Rk): Hayvansever Yazılımcılar
 
 ## Diğer Yazılım Toplulukları
 
