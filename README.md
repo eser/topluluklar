@@ -1,20 +1,20 @@
 # Yazılımcı Topluluk ve Mecraları
 
-## Yazılımcı Ağı
+## Yazılım Ağı
 
 **Duyuru Kanalları**
 
 - 🐦 [twitter/x](https://x.com/yazilimciagi): Twitter/X hesabımız  
-- 📢 [telegram kanalları listesi](https://t.me/yazilimciagi_kanallar): yazılımcı ağı'na dair tüm kanalları içeren meta-liste.  
+- 📢 [telegram kanalları listesi](https://t.me/yazilimciagi_kanallar): yazılım ağı'na dair tüm kanalları içeren meta-liste.  
 - 🎙️ [eser.live ve yazılımcı ağı](https://t.me/eserlive): eser.live bünyesinde hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.  
-- 📣 [yazılımcı ağı duyuruları](https://t.me/yazilimciagi): yazılımcı ağı genelinde yapılan etkinlik, yayın v.b. konular için duyuru kanalı.  
+- 📣 [yazılım ağı duyuruları](https://t.me/yazilimciagi): yazılım ağı genelinde yapılan etkinlik, yayın v.b. konular için duyuru kanalı.  
 
 **Tartışma Kanalları**
 
 - 💬 [discord](https://discord.com/invite/ckS4huSvEk): Discord sunucumuz  
-- 🗣️ [yazılımcı ağı tartışma (meta-genel kanal)](https://t.me/yazilimciagi_tartisma): yazılımcı ağı genelinde, herkesin yazabileceği genel tartışma kanalımız.  
-- 🌆 [istanbul yazılımcı ağı](https://t.me/yazilimciagi_istanbul): İstanbul özelindeki yazılımcı ağı kanalımız.  
-- 🏖️ [izmir yazılımcı ağı](https://t.me/yazilimciagi_izmir): İzmir özelindeki yazılımcı ağı kanalımız.  
+- 🗣️ [yazılım ağı tartışma (meta-genel kanal)](https://t.me/yazilimagi_tartisma): yazılım ağı genelinde, herkesin yazabileceği genel tartışma kanalımız.  
+- 🌆 [istanbul yazılım ağı](https://t.me/yazilimagi_istanbul): İstanbul özelindeki yazılım ağı kanalımız.  
+- 🏖️ [izmir yazılım ağı](https://t.me/yazilimagi_izmir): İzmir özelindeki yazılım ağı kanalımız.  
 
 **İlgi Alanı Kanalları**
 
