@@ -63,6 +63,7 @@
 - 🌊 [Karadenizdeki Yazılımcılar](https://t.me/blackseadevs): Karadeniz bölgesinde yaşayan ve çalışan yazılımcılar topluluğu  
 - 🧵 [ekşiCode](https://www.eksicode.org/telegram-gruplari): Yazılım Geliştirici Topluluğu  
 - 🧪 [JS Izmir](https://t.me/js_izmir): Izmir Javascript Topluluğu  
+- 🦀 [Türkiye Rust Community](https://bento.me/turkiye-rust-community): Türkiye Rust Dili Topluluğu
 
 ## Diğer Siber Güvenlik Toplulukları
 
