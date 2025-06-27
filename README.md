@@ -5,9 +5,8 @@
 **Duyuru Kanalları**
 
 - 🐦 [twitter/x](https://x.com/yazilimagiorg): Twitter/X hesabımız  
-- 📢 [telegram kanalları listesi](https://t.me/yazilimciagi_kanallar): yazılım ağı'na dair tüm kanalları içeren meta-liste.  
-- 🎙️ [eser.live ve yazılımcı ağı](https://t.me/eserlive): eser.live bünyesinde hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.  
-- 📣 [yazılım ağı duyuruları](https://t.me/yazilimciagi): yazılım ağı genelinde yapılan etkinlik, yayın v.b. konular için duyuru kanalı.  
+- 📣 [yazılım ağı duyuruları](https://t.me/yazilimagiorg): yazılım ağı genelinde yapılan etkinlik, yayın v.b. konular için telegram duyuru kanalı.  
+- 🎙️ [eser.live ve yazılım ağı](https://t.me/eserlive): eser.live bünyesinde hazırlanan podcast, canlı yayın v.b. içerikler için duyuru kanalı.  
 
 **Tartışma Kanalları**
 
