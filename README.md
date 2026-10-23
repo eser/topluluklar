@@ -65,6 +65,7 @@
 - 🦀 [Türkiye Rust Community](https://bento.me/turkiye-rust-community): Türkiye Rust Dili Topluluğu
 - 🧱 [Laravel Türkiye](https://discord.gg/invite/laravel-turkiye-901589011192238100): Laravel Türkiye Discord Topluluğu
 - 🧱 [Laravel Türkiye Forum](https://laravel.gen.tr): Laravel Türkiye Forum Topluluğu
+- 🛠️ [re:make](https://remakeizmir.com): İzmir'de haftalık yüz yüze buluşan, birlikte proje geliştiren yazılım topluluğu
 
 ## Diğer Siber Güvenlik Toplulukları
 
